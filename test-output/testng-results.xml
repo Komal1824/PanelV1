@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16214" started-at="2020-03-12T12:48:46Z" finished-at="2020-03-12T12:49:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16214" started-at="2020-03-12T12:48:46Z" finished-at="2020-03-12T12:49:02Z">
+      <class name="com.knoldus.panel.PanelV1_E2E">
+        <test-method status="PASS" signature="checkLoginAndVerifyDashboardElements()[pri:0, instance:com.knoldus.panel.PanelV1_E2E@ae45eb6]" name="checkLoginAndVerifyDashboardElements" duration-ms="16175" started-at="2020-03-12T12:48:46Z" finished-at="2020-03-12T12:49:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLoginAndVerifyDashboardElements -->
+      </class> <!-- com.knoldus.panel.PanelV1_E2E -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
